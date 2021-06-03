@@ -1,6 +1,6 @@
 # cynomys-net
 
-[![Build Status](https://travis-ci.org/howardliu-cn/cynomys-net.svg?branch=master)](https://www.travis-ci.org/howardliu-cn/cynomys-net)
+[![Build Status](https://api.travis-ci.com/howardliu-cn/cynomys-net.svg?branch=master)](https://travis-ci.com/github/howardliu-cn/cynomys-net)
 [![Apache License 2.0](https://img.shields.io/badge/license-Apache%20License%202.0-green.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 ![0.1.0](https://img.shields.io/badge/version-0.1.0-green)
 
